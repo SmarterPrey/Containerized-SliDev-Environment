@@ -1,0 +1,11 @@
+{
+  "name": "slidev-website",
+  "description": "SliDev Website",
+  "author": "Paul Pottorff <paul@smarterprey.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@slidev/cli": "^0.42.4",
+    "@slidev/theme-default": "^0.21.2"
+  }
+}
